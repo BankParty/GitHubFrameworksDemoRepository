@@ -1,0 +1,17 @@
+Address of elements
+
+Complete Xpath/Absolute Xpath
+
+
+
+
+
+//*[@id="organic-div"]/div[1]/h1
+
+html/body/div/main/div[2]/div[1]/div[1]/h1
+
+Partial Xpath
+//* - all the tags on the page
+//a - all the links on the page
+//*[@id='username']
+//input[@id='username']

@@ -1,0 +1,6 @@
+Reusable functions
+Reports generated
+Batch Run the test cases
+6 tests. 4. sanity. 2 smoke
+Parallely, maven
+Single Data providers
